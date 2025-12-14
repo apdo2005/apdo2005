@@ -35,12 +35,7 @@ Flutter is my passion
 ---
 
 ## 🦋 Flutter Lover
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300"/>
-</p>
-
----
-
+ 
 ## 📂 Projects
 ### 🧪 LabLink (Graduation / Team Project)
 - A system designed to manage and organize laboratory services efficiently
