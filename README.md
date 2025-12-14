@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 - 🎓 Computer Science Student at **Faculty of CS & AI – Banha University**
 - 📱 Passionate about **Flutter & Mobile Development**
-- 🚀 Trainee at **DEBI Program**
+- 🚀 Graduated from **DEBI Program**
 - 🧠 Solved **391+ problems on Codeforces**
 - 💡 Interested in **Clean UI, Firebase & Performance**
 
